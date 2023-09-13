@@ -71,9 +71,3 @@ class ColoredCard extends StatelessWidget {
     );
   }
 }
-
-class A {
-  final int a;
-
-  A({required this.a});
-}
